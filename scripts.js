@@ -4,7 +4,7 @@ const mascarahidden = document.querySelector(".cliqueiMascara")
 
 
 function mostrarForm() {
-    form.style.left = "40%"
+    form.style.left = "20%"
     form.style.transform = "translatX(-50%)"
     mascara.style.visibility = "visible"
 }
